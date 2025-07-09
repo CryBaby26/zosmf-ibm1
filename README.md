@@ -5,7 +5,7 @@ zosmf-ibm1 : IBM z/OS Mainframe # dataset # jcl
 - To setup Zowe Explorer
 - perform basic mainframe task such as:
     - working with datasets (SEQDS [sequential] & PDS [partitioned])
-    - working with JCL (Job control Language)
+    - working with JCL (Job Control Language)
 
 
 ## IBM z/OS Mainframe
