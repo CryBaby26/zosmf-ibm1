@@ -1,5 +1,5 @@
 # zosmf-ibm1 💤0️⃣♟️
-zosmf-ibm1 : IBM z/OS Mainframe # dataset # jcl
+zosmf-ibm1 : Goverment & Banking # IBM z/OS Mainframe # dataset # jcl # zowe
 
 ## Objective
 - To setup Zowe Explorer
