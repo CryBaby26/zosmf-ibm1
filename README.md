@@ -2,7 +2,7 @@
 zosmf-ibm1 : Goverment & Banking # IBM z/OS Mainframe # dataset # jcl # zowe
 
 ## Objective
-- To setup Zowe Explorer
+- To setup Zowe Explorer (Open source framework for z/OS)
 - perform basic mainframe task such as:
     - working with datasets (SEQDS [sequential] & PDS [partitioned])
     - working with JCL (Job Control Language)
